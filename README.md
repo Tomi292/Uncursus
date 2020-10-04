@@ -12,25 +12,26 @@ https://github.com/ProcursusTeam : For The Bootstrap
 
 https://github.com/coolstar : For The Procursus Deploy Script
 
-Thanks To:
-
-knuckles approver#1119 For All Test And The Name Of The Project
 
 Steps :
 
-1) You have to restore rootfs with unc0ver
+1) Jailbreak With Unc0ver
 
-2) Rejailbreak With Unc0ver
+2) Open Cydia Refresh Sources And Add This Repo
+(https://community.yourepo.com/)
 
-3) Open Cydia Refrsesh Sources And Install OpenSSH Package
+3) Install The Package "Uncursus Installer"
 
-*** Must Have Computer For Launch The Script SSH Over IP  (Mac User : User Terminal) (Windows User : User CMD) DO NOT USE NEWTERM***
+4) Open MTerminal And Get Root Access
 
-4)  Find Your Device IP And Use Your PC Or Mac To Connect SSH Over IP
+5) Run The Command "uncursus-installer"
 
-5) Put The Command In Your SSH Over IP Session : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Yaya48/Uncurus/new/installall.sh)"
+6) Wait
 
-6) Wait. Your Device Should Respring, Launch Sileo And Profit
+7) Confirm When Asked
 
+8) Your Device Should Respring
 
-Any Bug Report Will Be Appreciat ;) 
+9) Launch Sileo
+
+10) Enjoy
