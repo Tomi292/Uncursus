@@ -1,19 +1,19 @@
 #!/bin/bash
 if [ $(uname) = "Darwin" ]; then
 	if [ $(uname -p) = "arm" ] || [ $(uname -p) = "arm64" ]; then
-		echo "It's recommended this script be ran on macOS/Linux with a clean iOS device running checkra1n attached unless migrating from older bootstrap."
+		echo "It's recommended this script be ran on a clean iOS device attached unless migrating from older bootstrap."
 		read -p "Press enter to continue"
 		ARM=yes
 	fi
 fi
 
-echo "odysseyra1n deployment script"
+echo "odyssey deployment script"
 echo "(C) 2020, CoolStar. All Rights Reserved"
 
 echo ""
 echo "Before you begin: This script includes experimental migration from older bootstraps to Procursus/Odyssey."
-echo "If you're already jailbroken, you can run this script on the checkra1n device."
-echo "If you'd rather start clean, please Reset System via the Loader app first."
+echo "If you're already jailbroken, you can run this script on the your device."
+echo "If you'd rather start clean, please Reset System first."
 read -p "Press enter to continue"
 
 if ! which curl >> /dev/null; then
