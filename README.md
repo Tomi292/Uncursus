@@ -4,6 +4,7 @@ Procursus Bootstrap On Unc0ver Jailbreak
 A9-A13 Is Supported
 
 
+
 Steps :
 
 1) Jailbreak With Unc0ver
@@ -28,7 +29,10 @@ Steps :
 
 
 
+
 Credits :
 Yaya : Script To Patch Procursus Installtation For Unc0ver
+
 https://github.com/ProcursusTeam : For The Bootstrap
+
 https://github.com/coolstar : For The Procursus Deploy Script
