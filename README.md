@@ -32,6 +32,6 @@ Credits :
 
 Yaya4 : Script To Patch Procursus Installtation For Unc0ver
 
-https://github.com/ProcursusTeam : For The Bootstrap
+ProcursusTeam : For The Bootstrap
 
-https://github.com/coolstar : For The Procursus Deploy Script
+Coolstar : For The Procursus Deploy Script
