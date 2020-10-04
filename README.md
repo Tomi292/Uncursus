@@ -6,7 +6,7 @@ A9-A13 Is Supported
 
 Credits :
 
-Me : Script To Patch Procursus Installtation For Unc0ver
+Yaya : Script To Patch Procursus Installtation For Unc0ver
 
 https://github.com/ProcursusTeam : For The Bootstrap
 
@@ -29,7 +29,7 @@ Steps :
 
 7) Launch Sileo
 
-8) Up
+8) Update Each Package Individually
 
 9) Add This Repo (https://artikushg.github.io/) And Install The Package "PreferenceLoader"
 
