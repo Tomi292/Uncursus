@@ -9,7 +9,7 @@ Steps :
 
 1) Jailbreak With Unc0ver
 
-2) Open Cydia Refresh Sources And Add This Repo (https://community.yourepo.com/) And Install The Package "Uncursus Installer"
+2) Open Cydia Refresh Sources And Add This Repo (https://uncursus.yourepo.com/) And Install The Package "Uncursus Installer"
 
 3) Open MTerminal And Get Root Access
 
