@@ -28,11 +28,6 @@ Steps :
 10) Enjoy
 
 
-
-
-
-
-
 Credits :
 
 Yaya : Script To Patch Procursus Installtation For Unc0ver
