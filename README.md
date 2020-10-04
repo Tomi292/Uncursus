@@ -1,16 +1,6 @@
 # Uncurus
-
-Uncursus : Procursus Bootstrap On Unc0ver Jailbreak
-
+Procursus Bootstrap On Unc0ver Jailbreak
 A9-A13 Is Supported
-
-Credits :
-
-Yaya : Script To Patch Procursus Installtation For Unc0ver
-
-https://github.com/ProcursusTeam : For The Bootstrap
-
-https://github.com/coolstar : For The Procursus Deploy Script
 
 
 Steps :
@@ -34,3 +24,10 @@ Steps :
 9) Add This Repo (https://artikushg.github.io/) And Install The Package "PreferenceLoader"
 
 10) Enjoy
+
+
+
+Credits :
+Yaya : Script To Patch Procursus Installtation For Unc0ver
+https://github.com/ProcursusTeam : For The Bootstrap
+https://github.com/coolstar : For The Procursus Deploy Script
