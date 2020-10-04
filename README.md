@@ -17,21 +17,20 @@ Steps :
 
 1) Jailbreak With Unc0ver
 
-2) Open Cydia Refresh Sources And Add This Repo
-(https://community.yourepo.com/)
+2) Open Cydia Refresh Sources And Add This Repo (https://community.yourepo.com/) And Install The Package "Uncursus Installer"
 
-3) Install The Package "Uncursus Installer"
+3) Open MTerminal And Get Root Access
 
-4) Open MTerminal And Get Root Access
+4) Run The Command "uncursus-installer"
 
-5) Run The Command "uncursus-installer"
+5) Confirm When Asked
 
-6) Wait
+6) Your Device Should Respring
 
-7) Confirm When Asked
+7) Launch Sileo
 
-8) Your Device Should Respring
+8) Up
 
-9) Launch Sileo
+9) Add This Repo (https://artikushg.github.io/) And Install The Package "PreferenceLoader"
 
 10) Enjoy
