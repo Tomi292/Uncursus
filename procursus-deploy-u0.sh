@@ -11,7 +11,7 @@ echo "odyssey deployment script"
 echo "(C) 2020, CoolStar. All Rights Reserved"
 
 echo ""
-echo "Before you begin: This script includes experimental migration from older bootstraps to Procursus/Odyssey."
+echo "Before you begin: This script includes experimental migration from older bootstraps to Procursus."
 echo "If you're already jailbroken, you can run this script on the your device."
 echo "If you'd rather start clean, please Reset System first."
 read -p "Press enter to continue"
