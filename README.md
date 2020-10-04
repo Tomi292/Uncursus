@@ -30,7 +30,7 @@ Steps :
 
 Credits :
 
-Yaya : Script To Patch Procursus Installtation For Unc0ver
+Yaya4 : Script To Patch Procursus Installtation For Unc0ver
 
 https://github.com/ProcursusTeam : For The Bootstrap
 
