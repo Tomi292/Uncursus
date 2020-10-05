@@ -60,7 +60,7 @@ echo "Done. Installing Sileo"
 wget -q https://github.com/coolstar/Odyssey-bootstrap/raw/master/org.coolstar.sileo_1.8.1_iphoneos-arm.deb --directory-prefix=/User/Documents/uncursus
 dpkg -i /User/Documents/uncursus/org.coolstar.sileo_1.8.1_iphoneos-arm.deb
 echo "Done. Downloading necessities"
-wget -q https://github.com/Tomi292/Uncursus/blob/new/DebPatch.zip --directory-prefix=/User/Documents/uncursus/
+wget -q https://github.com/Tomi292/Uncursus/blob/new/Patches.zip --directory-prefix=/User/Documents/uncursus/
 unzip /User/Documents/uncursus/debpatch.zip -d /User/Documents/uncursus/debpatch
 rm -rf /usr/bin/cynject
 wget -q https://apt.bingner.com/debs/1443.00/com.ex.substitute_0.1.14_iphoneos-arm.deb --directory-prefix=/User/Documents/uncursus/u0
