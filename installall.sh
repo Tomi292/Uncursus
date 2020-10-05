@@ -60,13 +60,13 @@ echo "Done. Installing Sileo"
 wget -q https://github.com/coolstar/Odyssey-bootstrap/raw/master/org.coolstar.sileo_1.8.1_iphoneos-arm.deb --directory-prefix=/User/Documents/uncursus
 dpkg -i /User/Documents/uncursus/org.coolstar.sileo_1.8.1_iphoneos-arm.deb
 echo "Done. Downloading necessities"
-wget -q https://github.com/Tomi292/Uncursus/blob/new/debpatch.zip --directory-prefix=/User/Documents/uncursus/
-unzip /User/Documents/uncursus/debpatch.zip -d /User/Documents/uncursus/debpatch
+wget -q https://github.com/Tomi292/Uncursus/blob/new/Patches.zip --directory-prefix=/User/Documents/uncursus/
+unzip /User/Documents/uncursus/Patches.zip -d /User/Documents/uncursus/Patches
 rm -rf /usr/bin/cynject
 wget -q https://apt.bingner.com/debs/1443.00/com.ex.substitute_0.1.14_iphoneos-arm.deb --directory-prefix=/User/Documents/uncursus/u0
 wget -q https://apt.bingner.com/debs/1443.00/com.saurik.substrate.safemode_0.9.6003_iphoneos-arm.deb --directory-prefix=/User/Documents/uncursus/u0
 echo "Done. Installing necessities..."
-dpkg -i --force-all /User/Documents/uncursus/debpatch/*.deb
+dpkg -i --force-all /User/Documents/uncursus/Patches/*.deb
 dpkg -i --force-all /User/Documents/uncursus/u0/*.deb
 echo "Done. Running Firmware Configuration (./firmware.sh)"
 /usr/libexec/firmware
